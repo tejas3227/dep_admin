@@ -1,2 +1,2 @@
-# dep_admin
-Departmental Admin 
+# Departmental_admin
+Departmental admin for mentoring project.

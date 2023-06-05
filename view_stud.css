@@ -1,0 +1,25 @@
+card .card-header{
+    background-color: #80DEEA;
+  }
+  
+  .table-hover tbody tr:hover td {
+    background: rgb(212, 255, 255);
+  }
+
+  .table-bordered 
+    th,td,tr {
+      border: 2px solid black;
+    }
+
+.card-content{
+    margin: 10px;
+}
+logo .logo-txt{
+  font-size: 40px;
+}
+.table-container {
+  display: flex;
+  flex-direction: row;
+}
+
+
